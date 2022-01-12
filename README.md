@@ -19,6 +19,5 @@ If you intend to install the windows version, click the x86_64-posix-seh from Mi
 <br />
 <br />
 <br />
-==============================================================================<br />
 Wihtout admin rights, a tedious way of making a compiled CPP run is to manually copy the dll's from the 'g++.exe' folder to the folder where the CPP file is.<br />
 
